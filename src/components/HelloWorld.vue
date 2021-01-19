@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    使用jenkins实现持续集成
   </div>
 </template>
 
