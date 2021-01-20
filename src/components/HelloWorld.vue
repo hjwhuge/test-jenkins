@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     使用jenkins实现持续集成
+    测试jenkins是否需要安装git插件
   </div>
 </template>
 
